@@ -8,7 +8,9 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		// TranspotationWalk transpotationWalk = new TranspotationWalk();
 		// transpotationWalk.move();
-		//Hello
+		//testing
+		// showing only for HJ
+		// sunday!
 		// applicationContext(컨테이너)에 접근
 		GenericXmlApplicationContext ctx = new GenericXmlApplicationContext("classpath:applicationContext.xml");
 		// Bean의 id, dataType
@@ -16,7 +18,9 @@ public class MainClass {
 		transpotationWalk.move();
 		
 		ctx.close();
+
 		// hello~, abcde
+
 	}
 
 }
