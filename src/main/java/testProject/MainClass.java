@@ -10,6 +10,7 @@ public class MainClass {
 		// transpotationWalk.move();
 		//testing
 		// showing only for HJ
+		// sunday!
 		// applicationContext(컨테이너)에 접근
 		GenericXmlApplicationContext ctx = new GenericXmlApplicationContext("classpath:applicationContext.xml");
 		// Bean의 id, dataType
