@@ -16,7 +16,7 @@ public class MainClass {
 		transpotationWalk.move();
 		
 		ctx.close();
-		// hello~
+		// hello~, abcde
 	}
 
 }
