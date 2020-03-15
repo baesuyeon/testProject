@@ -14,10 +14,9 @@ public class MainClass {
 		// Bean의 id, dataType
 		TranspotationWalk transpotationWalk = ctx.getBean("tWalk", TranspotationWalk.class);
 		transpotationWalk.move();
+		// suyeon!
 		
 		ctx.close();
 	}
 
 }
-
-
